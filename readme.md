@@ -1,4 +1,4 @@
-## (9/29/2020 update: please see the updated version of this project, [Fakeymon2](https://github.com/paulkia/Fakeymon2))
+### (9/29/2020 update: please see the updated version of this project, [Fakeymon2](https://github.com/paulkia/Fakeymon2))
 
 Hello! This project (Fakeymon) was developed by Paul Karmel in 2018.
 This is a Java project developed in an attempt to further my understanding of object-oriented programming & data structures.
